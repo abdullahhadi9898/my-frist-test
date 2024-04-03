@@ -2,4 +2,12 @@ print("hello world")
 
 def add(a, b):
     return a + b
-print("sum of 5 and 10 is", add(5,10))
+
+def subtract(a, b):
+    return a - b
+
+def product(a, b):
+    return a * b
+
+def divide(a, b):
+    return a - b
